@@ -4,7 +4,8 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("hello world!");
 		System.out.println("test remote pull in eclipse...");
-		String s="可能是eclipse的版本较低，pull和push不上，用命令行的方式也行";	
+		String s="鍙兘鏄痚clipse鐨勭増鏈緝浣庯紝pull鍜宲ush涓嶄笂锛岀敤鍛戒护琛岀殑鏂瑰紡涔熻";
+		String ss ="20210305";
 	}
 
 }
